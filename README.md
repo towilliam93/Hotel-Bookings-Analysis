@@ -16,6 +16,7 @@ The results are then to be published in a Tableau dashboard/storyboard.
 
 The dataset for this project was obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
 
+The dataset to pull country names using a geojson file can be found [here](https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region).
 
 # Tableau
 
